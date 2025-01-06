@@ -1,8 +1,8 @@
-## Hello & Welcome 👋
+## Hello, I'm Ketan Tikekar 👋
 
 🌟**Data Analyst** | **Visualization Enthusiast** | **Risk Management Expert**|
 
-Hi! I'm Ketan, a data-driven problem solver. I enjoy translating voluminous datasets &  I’m all about digging into the details and creating dashboards and reports that aren’t just informative but also easy to understand.
+Hi! I'm a data-driven problem solver. I enjoy translating voluminous datasets &  I’m all about digging into the details and creating dashboards and reports that aren’t just informative but also easy to understand.
 ___________________________________________________________________________________________________________________________________________________________________
 
 🔍**Little About Me:**
