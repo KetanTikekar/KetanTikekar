@@ -1,5 +1,4 @@
-## Hello, I'm Ketan Tikekar 👋 ![pbi](https://github.com/user-attachments/assets/11c732e7-74ec-4c07-9e27-9199176cb20c)
-
+## Hello, I'm Ketan Tikekar 👋 !
 
 🌟**Data Analyst** | **Visualization Enthusiast** | **Risk Management Expert**|
 
@@ -37,4 +36,5 @@ ________________________________________________________________________________
 Email: ketantikekar@gmail.com
 LinkedIn: linkedin.com/in/ketan-tikekar-0325k
 GitHub: https://github.com/KetanTikekar
+[pbi](https://github.com/user-attachments/assets/11c732e7-74ec-4c07-9e27-9199176cb20c)
 
