@@ -2,7 +2,7 @@
 
 🌟**Data Analyst** | **Visualization Enthusiast** | **Risk Management Expert**|
 
-Hi! I'm a data-driven problem solver. I enjoy translating voluminous datasets &  I’m all about digging into the details and creating dashboards and reports that aren’t just informative but also easy to understand.
+Hi! I'm a data-driven problem solver. I enjoy transforming voluminous datasets into meaningful results; I love digging into the details and creating dashboards and reports that aren’t just informative but also easy to understand.
 ___________________________________________________________________________________________________________________________________________________________________
 
 🔍**Little About Me:**
