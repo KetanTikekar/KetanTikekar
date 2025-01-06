@@ -32,6 +32,9 @@ ________________________________________________________________________________
 Right now, I’m sharpening my skills in data visualization and Microsoft Fabric to take data solutions up a notch. Stay tuned for more repos soon, where I’ll be showcasing everything from price prediction models to large-scale data visualizations.
 ___________________________________________________________________________________________________________________________________________________________________
 
+![1699024803595](https://github.com/user-attachments/assets/10619f40-a423-40b4-b449-be21885c8386)
+
+
 **Find Me Here:**
 Email: ketantikekar@gmail.com
 LinkedIn: linkedin.com/in/ketan-tikekar-0325k
