@@ -25,3 +25,8 @@ Pivot Tables, MACROS
 🚀 **What I’m Working On:**
 Right now, I’m sharpening my skills in data visualization and Microsoft Fabric to take data solutions up a notch. Stay tuned for more repos soon, where I’ll be showcasing everything from price prediction models to large-scale data visualizations.
 
+Find Me Here:
+Email: ketantikekar@gmail.com
+LinkedIn: linkedin.com/in/ketan-tikekar-0325k
+GitHub: https://github.com/KetanTikekar
+
