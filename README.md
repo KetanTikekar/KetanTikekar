@@ -11,21 +11,21 @@ For the past three years, I’ve been working across multiple projects transform
 
 ⭐ **My favorite part of the job:** 
 
-Building interactive visual dashboards that bring the data alive. Developing insights from Power BI reports to analyse past & future trends to make an informed decision
+Building interactive visual dashboards that bring the data alive. Developing insights from Power BI reports to analyse past & future trends to make an informed decision.
 
 Whether it’s simplifying and managing data with **DAX queries** or cutting down hours of manual work to get an insight into the datasets by developing the **KPI's** for the mid scaled businesses, I’m always looking for ways to work smarter. Data is at the heart of everything I do, and I’m passionate about finding patterns and evolving with the same that drive real-world impact.
 ___________________________________________________________________________________________________________________________________________________________________
 🛠 **The Tools in My Toolbox:**
 
-Data Crunching:  SQL, DAX for slicing and dicing complex datasets
+Data Crunching:  SQL, DAX for slicing and dicing complex datasets.
 ___________________________________________________________________________________________________________________________________________________________________
 🚀 **Visual Storytelling** 
 
-Power BI, Excel (Advanced), Power Query to build engaging reports
+Power BI, Excel (Advanced), Power Query to build engaging reports.
 ___________________________________________________________________________________________________________________________________________________________________
 🤖 **Automation & Management:**
 
-Pivot Tables, MACROS
+Pivot Tables, MACROS.
 ___________________________________________________________________________________________________________________________________________________________________
 🚀 **What I’m Working On:**
 
